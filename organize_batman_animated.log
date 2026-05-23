@@ -1,0 +1,926 @@
+
+Plan: 114 file operations
+DRY   01. On Leather Wings.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E01 - On Leather Wings.xvid
+DRY   02. Christmas with the Joker .xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E02 - Christmas with the Joker.xvid
+DRY   03. Nothing to Fear.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E03 - Nothing to Fear.xvid
+DRY   04. The Last Laugh.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E04 - The Last Laugh.xvid
+DRY   05. Pretty Poison.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E05 - Pretty Poison.xvid
+DRY   06. The Underdwellers.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E06 - The Underdwellers.xvid
+DRY   07. P.O.V. .xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E07 - P.O.V..xvid
+DRY   08. Forgotten.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E08 - Forgotten.xvid
+DRY   09. Be a Clown.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E09 - Be a Clown.xvid
+DRY   10. Two-Face Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E10 - Two-Face Part 1.xvid
+DRY   11. Two-Face Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E11 - Two-Face Part 2.xvid
+DRY   12. It's Never Too Late.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E12 - It's Never Too Late.xvid
+DRY   13. I've Got Batman in My Basement.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E13 - I've Got Batman in My Basement.xvid
+DRY   14. Heart of Ice.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E14 - Heart of Ice.xvid
+DRY   15. Cat and Claw Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E15 - Cat and Claw Part 1.xvid
+DRY   16. Cat and Claw Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E16 - Cat and Claw Part 2.xvid
+DRY   17. See No Evil.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E17 - See No Evil.xvid
+DRY   18. Beware of Gray Ghost.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E18 - Beware the Gray Ghost.xvid
+DRY   19. Prophecy of Doom.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E19 - Prophecy of Doom.xvid
+DRY   20. Feat of Clay Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E20 - Feat of Clay Part 1.xvid
+DRY   21. Feat of Clay Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E21 - Feat of Clay Part 2.xvid
+DRY   22. Joker's Favor.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E22 - Joker's Favor.xvid
+DRY   23. Vendetta.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E23 - Vendetta.xvid
+DRY   24. Fear of Victory.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E24 - Fear of Victory.xvid
+DRY   25. The Clock King.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E25 - The Clock King.xvid
+DRY   26. Appointment in Crime Alley.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E26 - Appointment in Crime Alley.xvid
+DRY   27. Mad As a Hatter.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E27 - Mad as a Hatter.xvid
+DRY   28. Dreams in Darkness.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E28 - Dreams in Darkness.xvid
+DRY   29. Eternal Youth.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E29 - Eternal Youth.avi
+DRY   30. Perchance To Dream.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E30 - Perchance to Dream.avi
+DRY   31. The Cape And Cowl Conspiracy.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E31 - The Cape and Cowl Conspiracy.avi
+DRY   32. Robin's Reckoning Part One.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E32 - Robin's Reckoning Part One.avi
+DRY   33. Robin's Reckoning Part Two.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E33 - Robin's Reckoning Part Two.avi
+DRY   34. The Laughing Fish.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E34 - The Laughing Fish.avi
+DRY   35. Night Of The Ninja.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E35 - Night of the Ninja.avi
+DRY   36. Cat Scratch Fever.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E36 - Cat Scratch Fever.avi
+DRY   37. The Strange Secret Of Bruce Wayne.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E37 - The Strange Secret of Bruce Wayne.avi
+DRY   38. Heart Of Steel Part One.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E38 - Heart of Steel Part One.avi
+DRY   39. Heart Of Steel Part Two.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E39 - Heart of Steel Part Two.avi
+DRY   40. If You're So Smart, Why Aren't You Rich.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E40 - If You're So Smart, Why Aren't You Rich?.avi
+DRY   41. Joker's Wild.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E41 - Joker's Wild.avi
+DRY   42. Tyger, Tyger.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E42 - Tyger, Tyger.avi
+DRY   43. Moon Of The Wolf.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E43 - Moon of the Wolf.avi
+DRY   44. Day Of The Samurai.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E44 - Day of the Samurai.avi
+DRY   45. Terror In The Sky.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E45 - Terror in the Sky.avi
+DRY   46. Almost Got 'im.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E46 - Almost Got 'Im.avi
+DRY   47. Birds Of A Feather.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E47 - Birds of a Feather.avi
+DRY   48. What Is Reality.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E48 - What Is Reality?.avi
+DRY   49. I Am The Night.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E49 - I Am the Night.avi
+DRY   50. Off Balance.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E50 - Off Balance.avi
+DRY   51. The Man Who Killed Batman.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E51 - The Man Who Killed Batman.avi
+DRY   52. Mudslide.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E52 - Mudslide.avi
+DRY   53. Paging The Crime Doctor.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E53 - Paging the Crime Doctor.avi
+DRY   54. Zatanna.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E54 - Zatanna.avi
+DRY   55. The Mechanic.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E55 - The Mechanic.avi
+DRY   56. Harley & Ivy.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E56 - Harley and Ivy.avi
+DRY   57. Shadow Of The Bat Part 1.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E57 - Shadow of the Bat Part 1.avi
+DRY   58. Shadow Of The Bat Part 2.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E58 - Shadow of the Bat Part 2.avi
+DRY   59. Blind as a Bat.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E59 - Blind as a Bat.avi
+DRY   60. The Demon's Quest Part 1.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E60 - The Demon's Quest Part 1.avi
+DRY   61. The Demon's Quest Part 2.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E61 - The Demon's Quest Part 2.avi
+DRY   62. His Silicon Soul.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E62 - His Silicon Soul.avi
+DRY   63. Fire From Olympus.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E63 - Fire From Olympus.avi
+DRY   64. Read My Lips.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E64 - Read My Lips.avi
+DRY   65. The Worry Men.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E65 - The Worry Men.avi
+DRY   66. Sideshow.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E66 - Sideshow.avi
+DRY   67. A Bullet for Bullock.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E67 - A Bullet for Bullock.avi
+DRY   68. Trial.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E68 - Trial.avi
+DRY   69. Avatar.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E69 - Avatar.avi
+DRY   70. House & Garden.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E70 - House and Garden.avi
+DRY   71. The Terrible Trio.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E71 - The Terrible Trio.avi
+DRY   72. Harlequinade.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E72 - Harlequinade.avi
+DRY   73. Time out of Joint.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E73 - Time Out of Joint.avi
+DRY   74. Catwalk.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E74 - Catwalk.avi
+DRY   75. Bane.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E75 - Bane.avi
+DRY   76. Baby-Doll.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E76 - Baby-Doll.avi
+DRY   77. The Lion and The Unicorn.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E77 - The Lion and the Unicorn.avi
+DRY   78. Showdown.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E78 - Showdown.avi
+DRY   79. Riddlers Reform.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E79 - Riddler's Reform.avi
+DRY   80. Second Chance.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E80 - Second Chance.avi
+DRY   81. Harley's Holiday.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E81 - Harley's Holiday.avi
+DRY   82. Lock-Up.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E82 - Lock-Up.avi
+DRY   83. Make em Laugh.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E83 - Make 'Em Laugh.avi
+DRY   84. Deep Freeze.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E84 - Deep Freeze.avi
+DRY   85. Batgirl Returns.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E85 - Batgirl Returns.avi
+DRY   Batman - The Animated Series - S04E01 - The Terrible Trio.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E71 - The Terrible Trio.mkv
+DRY   Batman - The Animated Series - S04E02 - Showdown.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E78 - Showdown.mkv
+DRY   Batman - The Animated Series - S04E03 - Catwalk.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E74 - Catwalk.mkv
+DRY   Batman - The Animated Series - S04E04 - A Bullet for Bullock.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E67 - A Bullet for Bullock.mkv
+DRY   Batman - The Animated Series - S04E05 - The Lion and the Unicorn.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E77 - The Lion and the Unicorn.mkv
+DRY   86. Holiday Knights.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E01 - Holiday Knights.avi
+DRY   87. Sins Of The Father.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E02 - Sins of the Father.avi
+DRY   88. Cold Comfort.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E03 - Cold Comfort.avi
+DRY   89. Double Talk.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E04 - Double Talk.avi
+DRY   90. You Scratch My Back.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E05 - You Scratch My Back.avi
+DRY   91. Never Fear.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E06 - Never Fear.avi
+WARN  source missing: 92. Joker's Millions.avi
+DRY   93. Growing Pains.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E08 - Growing Pains.avi
+DRY   94. Love Is A Croc.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E09 - Love Is a Croc.avi
+DRY   95. Torch Song.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E10 - Torch Song.avi
+DRY   96. The Ultimate Thrill.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E11 - The Ultimate Thrill.avi
+DRY   97. Over The Edge.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E12 - Over the Edge.avi
+DRY   98. Mean Seasons.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E13 - Mean Seasons.avi
+DRY   99. Critters.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E14 - Critters.avi
+DRY   100. Cult Of The Cat.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E15 - Cult of the Cat.avi
+DRY   101. Animal Act.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E16 - Animal Act.avi
+DRY   102. Old Wounds.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E17 - Old Wounds.avi
+DRY   103. The Demon Within.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E18 - The Demon Within.avi
+DRY   104. Legends Of The Dark Knight.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E19 - Legends of the Dark Knight.avi
+DRY   105. Girl's Night Out.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E20 - Girl's Night Out.avi
+DRY   106. Mad Love.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E21 - Mad Love.avi
+DRY   107. Chemistry.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E22 - Chemistry.avi
+DRY   108. Beware The Creeper.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E23 - Beware the Creeper.avi
+DRY   109. Judgement Day.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E24 - Judgment Day.avi
+
+Summary: moved=113  skipped=0  errors=1
+
+Plan: 114 file operations
+DRY   01. On Leather Wings.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E01 - On Leather Wings.xvid
+DRY   02. Christmas with the Joker .xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E02 - Christmas with the Joker.xvid
+DRY   03. Nothing to Fear.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E03 - Nothing to Fear.xvid
+DRY   04. The Last Laugh.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E04 - The Last Laugh.xvid
+DRY   05. Pretty Poison.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E05 - Pretty Poison.xvid
+DRY   06. The Underdwellers.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E06 - The Underdwellers.xvid
+DRY   07. P.O.V. .xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E07 - P.O.V..xvid
+DRY   08. Forgotten.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E08 - Forgotten.xvid
+DRY   09. Be a Clown.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E09 - Be a Clown.xvid
+DRY   10. Two-Face Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E10 - Two-Face Part 1.xvid
+DRY   11. Two-Face Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E11 - Two-Face Part 2.xvid
+DRY   12. It's Never Too Late.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E12 - It's Never Too Late.xvid
+DRY   13. I've Got Batman in My Basement.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E13 - I've Got Batman in My Basement.xvid
+DRY   14. Heart of Ice.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E14 - Heart of Ice.xvid
+DRY   15. Cat and Claw Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E15 - Cat and Claw Part 1.xvid
+DRY   16. Cat and Claw Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E16 - Cat and Claw Part 2.xvid
+DRY   17. See No Evil.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E17 - See No Evil.xvid
+DRY   18. Beware of Gray Ghost.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E18 - Beware the Gray Ghost.xvid
+DRY   19. Prophecy of Doom.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E19 - Prophecy of Doom.xvid
+DRY   20. Feat of Clay Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E20 - Feat of Clay Part 1.xvid
+DRY   21. Feat of Clay Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E21 - Feat of Clay Part 2.xvid
+DRY   22. Joker's Favor.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E22 - Joker's Favor.xvid
+DRY   23. Vendetta.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E23 - Vendetta.xvid
+DRY   24. Fear of Victory.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E24 - Fear of Victory.xvid
+DRY   25. The Clock King.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E25 - The Clock King.xvid
+DRY   26. Appointment in Crime Alley.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E26 - Appointment in Crime Alley.xvid
+DRY   27. Mad As a Hatter.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E27 - Mad as a Hatter.xvid
+DRY   28. Dreams in Darkness.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E28 - Dreams in Darkness.xvid
+DRY   29. Eternal Youth.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E29 - Eternal Youth.avi
+DRY   30. Perchance To Dream.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E30 - Perchance to Dream.avi
+DRY   31. The Cape And Cowl Conspiracy.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E31 - The Cape and Cowl Conspiracy.avi
+DRY   32. Robin's Reckoning Part One.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E32 - Robin's Reckoning Part One.avi
+DRY   33. Robin's Reckoning Part Two.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E33 - Robin's Reckoning Part Two.avi
+DRY   34. The Laughing Fish.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E34 - The Laughing Fish.avi
+DRY   35. Night Of The Ninja.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E35 - Night of the Ninja.avi
+DRY   36. Cat Scratch Fever.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E36 - Cat Scratch Fever.avi
+DRY   37. The Strange Secret Of Bruce Wayne.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E37 - The Strange Secret of Bruce Wayne.avi
+DRY   38. Heart Of Steel Part One.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E38 - Heart of Steel Part One.avi
+DRY   39. Heart Of Steel Part Two.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E39 - Heart of Steel Part Two.avi
+DRY   40. If You're So Smart, Why Aren't You Rich.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E40 - If You're So Smart, Why Aren't You Rich?.avi
+DRY   41. Joker's Wild.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E41 - Joker's Wild.avi
+DRY   42. Tyger, Tyger.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E42 - Tyger, Tyger.avi
+DRY   43. Moon Of The Wolf.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E43 - Moon of the Wolf.avi
+DRY   44. Day Of The Samurai.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E44 - Day of the Samurai.avi
+DRY   45. Terror In The Sky.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E45 - Terror in the Sky.avi
+DRY   46. Almost Got 'im.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E46 - Almost Got 'Im.avi
+DRY   47. Birds Of A Feather.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E47 - Birds of a Feather.avi
+DRY   48. What Is Reality.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E48 - What Is Reality?.avi
+DRY   49. I Am The Night.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E49 - I Am the Night.avi
+DRY   50. Off Balance.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E50 - Off Balance.avi
+DRY   51. The Man Who Killed Batman.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E51 - The Man Who Killed Batman.avi
+DRY   52. Mudslide.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E52 - Mudslide.avi
+DRY   53. Paging The Crime Doctor.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E53 - Paging the Crime Doctor.avi
+DRY   54. Zatanna.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E54 - Zatanna.avi
+DRY   55. The Mechanic.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E55 - The Mechanic.avi
+DRY   56. Harley & Ivy.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E56 - Harley and Ivy.avi
+DRY   57. Shadow Of The Bat Part 1.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E57 - Shadow of the Bat Part 1.avi
+DRY   58. Shadow Of The Bat Part 2.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E58 - Shadow of the Bat Part 2.avi
+DRY   59. Blind as a Bat.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E59 - Blind as a Bat.avi
+DRY   60. The Demon's Quest Part 1.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E60 - The Demon's Quest Part 1.avi
+DRY   61. The Demon's Quest Part 2.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E61 - The Demon's Quest Part 2.avi
+DRY   62. His Silicon Soul.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E62 - His Silicon Soul.avi
+DRY   63. Fire From Olympus.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E63 - Fire From Olympus.avi
+DRY   64. Read My Lips.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E64 - Read My Lips.avi
+DRY   65. The Worry Men.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E65 - The Worry Men.avi
+DRY   66. Sideshow.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E66 - Sideshow.avi
+DRY   67. A Bullet for Bullock.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E67 - A Bullet for Bullock.avi
+DRY   68. Trial.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E68 - Trial.avi
+DRY   69. Avatar.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E69 - Avatar.avi
+DRY   70. House & Garden.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E70 - House and Garden.avi
+DRY   71. The Terrible Trio.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E71 - The Terrible Trio.avi
+DRY   72. Harlequinade.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E72 - Harlequinade.avi
+DRY   73. Time out of Joint.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E73 - Time Out of Joint.avi
+DRY   74. Catwalk.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E74 - Catwalk.avi
+DRY   75. Bane.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E75 - Bane.avi
+DRY   76. Baby-Doll.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E76 - Baby-Doll.avi
+DRY   77. The Lion and The Unicorn.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E77 - The Lion and the Unicorn.avi
+DRY   78. Showdown.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E78 - Showdown.avi
+DRY   79. Riddlers Reform.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E79 - Riddler's Reform.avi
+DRY   80. Second Chance.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E80 - Second Chance.avi
+DRY   81. Harley's Holiday.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E81 - Harley's Holiday.avi
+DRY   82. Lock-Up.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E82 - Lock-Up.avi
+DRY   83. Make em Laugh.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E83 - Make 'Em Laugh.avi
+DRY   84. Deep Freeze.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E84 - Deep Freeze.avi
+DRY   85. Batgirl Returns.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E85 - Batgirl Returns.avi
+DRY   Batman - The Animated Series - S04E01 - The Terrible Trio.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E71 - The Terrible Trio.mkv
+DRY   Batman - The Animated Series - S04E02 - Showdown.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E78 - Showdown.mkv
+DRY   Batman - The Animated Series - S04E03 - Catwalk.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E74 - Catwalk.mkv
+DRY   Batman - The Animated Series - S04E04 - A Bullet for Bullock.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E67 - A Bullet for Bullock.mkv
+DRY   Batman - The Animated Series - S04E05 - The Lion and the Unicorn.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E77 - The Lion and the Unicorn.mkv
+DRY   86. Holiday Knights.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E01 - Holiday Knights.avi
+DRY   87. Sins Of The Father.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E02 - Sins of the Father.avi
+DRY   88. Cold Comfort.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E03 - Cold Comfort.avi
+DRY   89. Double Talk.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E04 - Double Talk.avi
+DRY   90. You Scratch My Back.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E05 - You Scratch My Back.avi
+DRY   91. Never Fear.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E06 - Never Fear.avi
+WARN  source missing: 92. Joker's Millions.avi
+DRY   93. Growing Pains.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E08 - Growing Pains.avi
+DRY   94. Love Is A Croc.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E09 - Love Is a Croc.avi
+DRY   95. Torch Song.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E10 - Torch Song.avi
+DRY   96. The Ultimate Thrill.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E11 - The Ultimate Thrill.avi
+DRY   97. Over The Edge.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E12 - Over the Edge.avi
+DRY   98. Mean Seasons.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E13 - Mean Seasons.avi
+DRY   99. Critters.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E14 - Critters.avi
+DRY   100. Cult Of The Cat.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E15 - Cult of the Cat.avi
+DRY   101. Animal Act.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E16 - Animal Act.avi
+DRY   102. Old Wounds.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E17 - Old Wounds.avi
+DRY   103. The Demon Within.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E18 - The Demon Within.avi
+DRY   104. Legends Of The Dark Knight.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E19 - Legends of the Dark Knight.avi
+DRY   105. Girl's Night Out.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E20 - Girl's Night Out.avi
+DRY   106. Mad Love.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E21 - Mad Love.avi
+DRY   107. Chemistry.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E22 - Chemistry.avi
+DRY   108. Beware The Creeper.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E23 - Beware the Creeper.avi
+DRY   109. Judgement Day.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E24 - Judgment Day.avi
+
+Summary: moved=113  skipped=0  errors=1
+
+Plan: 114 file operations
+DRY   01. On Leather Wings.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E01 - On Leather Wings.xvid
+DRY   02. Christmas with the Joker .xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E02 - Christmas with the Joker.xvid
+DRY   03. Nothing to Fear.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E03 - Nothing to Fear.xvid
+DRY   04. The Last Laugh.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E04 - The Last Laugh.xvid
+DRY   05. Pretty Poison.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E05 - Pretty Poison.xvid
+DRY   06. The Underdwellers.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E06 - The Underdwellers.xvid
+DRY   07. P.O.V. .xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E07 - P.O.V..xvid
+DRY   08. Forgotten.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E08 - Forgotten.xvid
+DRY   09. Be a Clown.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E09 - Be a Clown.xvid
+DRY   10. Two-Face Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E10 - Two-Face Part 1.xvid
+DRY   11. Two-Face Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E11 - Two-Face Part 2.xvid
+DRY   12. It's Never Too Late.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E12 - It's Never Too Late.xvid
+DRY   13. I've Got Batman in My Basement.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E13 - I've Got Batman in My Basement.xvid
+DRY   14. Heart of Ice.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E14 - Heart of Ice.xvid
+DRY   15. Cat and Claw Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E15 - Cat and Claw Part 1.xvid
+DRY   16. Cat and Claw Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E16 - Cat and Claw Part 2.xvid
+DRY   17. See No Evil.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E17 - See No Evil.xvid
+DRY   18. Beware of Gray Ghost.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E18 - Beware the Gray Ghost.xvid
+DRY   19. Prophecy of Doom.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E19 - Prophecy of Doom.xvid
+DRY   20. Feat of Clay Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E20 - Feat of Clay Part 1.xvid
+DRY   21. Feat of Clay Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E21 - Feat of Clay Part 2.xvid
+DRY   22. Joker's Favor.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E22 - Joker's Favor.xvid
+DRY   23. Vendetta.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E23 - Vendetta.xvid
+DRY   24. Fear of Victory.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E24 - Fear of Victory.xvid
+DRY   25. The Clock King.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E25 - The Clock King.xvid
+DRY   26. Appointment in Crime Alley.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E26 - Appointment in Crime Alley.xvid
+DRY   27. Mad As a Hatter.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E27 - Mad as a Hatter.xvid
+DRY   28. Dreams in Darkness.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E28 - Dreams in Darkness.xvid
+DRY   29. Eternal Youth.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E29 - Eternal Youth.avi
+DRY   30. Perchance To Dream.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E30 - Perchance to Dream.avi
+DRY   31. The Cape And Cowl Conspiracy.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E31 - The Cape and Cowl Conspiracy.avi
+DRY   32. Robin's Reckoning Part One.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E32 - Robin's Reckoning Part One.avi
+DRY   33. Robin's Reckoning Part Two.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E33 - Robin's Reckoning Part Two.avi
+DRY   34. The Laughing Fish.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E34 - The Laughing Fish.avi
+DRY   35. Night Of The Ninja.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E35 - Night of the Ninja.avi
+DRY   36. Cat Scratch Fever.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E36 - Cat Scratch Fever.avi
+DRY   37. The Strange Secret Of Bruce Wayne.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E37 - The Strange Secret of Bruce Wayne.avi
+DRY   38. Heart Of Steel Part One.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E38 - Heart of Steel Part One.avi
+DRY   39. Heart Of Steel Part Two.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E39 - Heart of Steel Part Two.avi
+DRY   40. If You're So Smart, Why Aren't You Rich.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E40 - If You're So Smart, Why Aren't You Rich?.avi
+DRY   41. Joker's Wild.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E41 - Joker's Wild.avi
+DRY   42. Tyger, Tyger.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E42 - Tyger, Tyger.avi
+DRY   43. Moon Of The Wolf.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E43 - Moon of the Wolf.avi
+DRY   44. Day Of The Samurai.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E44 - Day of the Samurai.avi
+DRY   45. Terror In The Sky.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E45 - Terror in the Sky.avi
+DRY   46. Almost Got 'im.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E46 - Almost Got 'Im.avi
+DRY   47. Birds Of A Feather.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E47 - Birds of a Feather.avi
+DRY   48. What Is Reality.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E48 - What Is Reality?.avi
+DRY   49. I Am The Night.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E49 - I Am the Night.avi
+DRY   50. Off Balance.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E50 - Off Balance.avi
+DRY   51. The Man Who Killed Batman.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E51 - The Man Who Killed Batman.avi
+DRY   52. Mudslide.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E52 - Mudslide.avi
+DRY   53. Paging The Crime Doctor.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E53 - Paging the Crime Doctor.avi
+DRY   54. Zatanna.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E54 - Zatanna.avi
+DRY   55. The Mechanic.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E55 - The Mechanic.avi
+DRY   56. Harley & Ivy.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E56 - Harley and Ivy.avi
+DRY   57. Shadow Of The Bat Part 1.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E57 - Shadow of the Bat Part 1.avi
+DRY   58. Shadow Of The Bat Part 2.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E58 - Shadow of the Bat Part 2.avi
+DRY   59. Blind as a Bat.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E59 - Blind as a Bat.avi
+DRY   60. The Demon's Quest Part 1.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E60 - The Demon's Quest Part 1.avi
+DRY   61. The Demon's Quest Part 2.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E61 - The Demon's Quest Part 2.avi
+DRY   62. His Silicon Soul.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E62 - His Silicon Soul.avi
+DRY   63. Fire From Olympus.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E63 - Fire From Olympus.avi
+DRY   64. Read My Lips.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E64 - Read My Lips.avi
+DRY   65. The Worry Men.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E65 - The Worry Men.avi
+DRY   66. Sideshow.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E66 - Sideshow.avi
+DRY   67. A Bullet for Bullock.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E67 - A Bullet for Bullock.avi
+DRY   68. Trial.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E68 - Trial.avi
+DRY   69. Avatar.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E69 - Avatar.avi
+DRY   70. House & Garden.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E70 - House and Garden.avi
+DRY   71. The Terrible Trio.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E71 - The Terrible Trio.avi
+DRY   72. Harlequinade.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E72 - Harlequinade.avi
+DRY   73. Time out of Joint.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E73 - Time Out of Joint.avi
+DRY   74. Catwalk.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E74 - Catwalk.avi
+DRY   75. Bane.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E75 - Bane.avi
+DRY   76. Baby-Doll.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E76 - Baby-Doll.avi
+DRY   77. The Lion and The Unicorn.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E77 - The Lion and the Unicorn.avi
+DRY   78. Showdown.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E78 - Showdown.avi
+DRY   79. Riddlers Reform.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E79 - Riddler's Reform.avi
+DRY   80. Second Chance.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E80 - Second Chance.avi
+DRY   81. Harley's Holiday.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E81 - Harley's Holiday.avi
+DRY   82. Lock-Up.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E82 - Lock-Up.avi
+DRY   83. Make em Laugh.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E83 - Make 'Em Laugh.avi
+DRY   84. Deep Freeze.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E84 - Deep Freeze.avi
+DRY   85. Batgirl Returns.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E85 - Batgirl Returns.avi
+DRY   Batman - The Animated Series - S04E01 - The Terrible Trio.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E71 - The Terrible Trio.mkv
+DRY   Batman - The Animated Series - S04E02 - Showdown.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E78 - Showdown.mkv
+DRY   Batman - The Animated Series - S04E03 - Catwalk.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E74 - Catwalk.mkv
+DRY   Batman - The Animated Series - S04E04 - A Bullet for Bullock.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E67 - A Bullet for Bullock.mkv
+DRY   Batman - The Animated Series - S04E05 - The Lion and the Unicorn.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E77 - The Lion and the Unicorn.mkv
+DRY   86. Holiday Knights.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E01 - Holiday Knights.avi
+DRY   87. Sins Of The Father.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E02 - Sins of the Father.avi
+DRY   88. Cold Comfort.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E03 - Cold Comfort.avi
+DRY   89. Double Talk.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E04 - Double Talk.avi
+DRY   90. You Scratch My Back.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E05 - You Scratch My Back.avi
+DRY   91. Never Fear.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E06 - Never Fear.avi
+DRY   92. Jokers's Millions.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E07 - Joker's Millions.avi
+DRY   93. Growing Pains.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E08 - Growing Pains.avi
+DRY   94. Love Is A Croc.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E09 - Love Is a Croc.avi
+DRY   95. Torch Song.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E10 - Torch Song.avi
+DRY   96. The Ultimate Thrill.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E11 - The Ultimate Thrill.avi
+DRY   97. Over The Edge.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E12 - Over the Edge.avi
+DRY   98. Mean Seasons.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E13 - Mean Seasons.avi
+DRY   99. Critters.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E14 - Critters.avi
+DRY   100. Cult Of The Cat.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E15 - Cult of the Cat.avi
+DRY   101. Animal Act.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E16 - Animal Act.avi
+DRY   102. Old Wounds.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E17 - Old Wounds.avi
+DRY   103. The Demon Within.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E18 - The Demon Within.avi
+DRY   104. Legends Of The Dark Knight.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E19 - Legends of the Dark Knight.avi
+DRY   105. Girl's Night Out.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E20 - Girl's Night Out.avi
+DRY   106. Mad Love.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E21 - Mad Love.avi
+DRY   107. Chemistry.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E22 - Chemistry.avi
+DRY   108. Beware The Creeper.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E23 - Beware the Creeper.avi
+DRY   109. Judgement Day.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E24 - Judgment Day.avi
+
+Summary: moved=114  skipped=0  errors=0
+
+Plan: 114 file operations
+MOVE  01. On Leather Wings.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E01 - On Leather Wings.xvid
+MOVE  02. Christmas with the Joker .xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E02 - Christmas with the Joker.xvid
+MOVE  03. Nothing to Fear.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E03 - Nothing to Fear.xvid
+MOVE  04. The Last Laugh.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E04 - The Last Laugh.xvid
+MOVE  05. Pretty Poison.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E05 - Pretty Poison.xvid
+MOVE  06. The Underdwellers.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E06 - The Underdwellers.xvid
+MOVE  07. P.O.V. .xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E07 - P.O.V..xvid
+MOVE  08. Forgotten.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E08 - Forgotten.xvid
+MOVE  09. Be a Clown.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E09 - Be a Clown.xvid
+MOVE  10. Two-Face Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E10 - Two-Face Part 1.xvid
+MOVE  11. Two-Face Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E11 - Two-Face Part 2.xvid
+MOVE  12. It's Never Too Late.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E12 - It's Never Too Late.xvid
+MOVE  13. I've Got Batman in My Basement.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E13 - I've Got Batman in My Basement.xvid
+MOVE  14. Heart of Ice.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E14 - Heart of Ice.xvid
+MOVE  15. Cat and Claw Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E15 - Cat and Claw Part 1.xvid
+MOVE  16. Cat and Claw Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E16 - Cat and Claw Part 2.xvid
+MOVE  17. See No Evil.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E17 - See No Evil.xvid
+MOVE  18. Beware of Gray Ghost.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E18 - Beware the Gray Ghost.xvid
+MOVE  19. Prophecy of Doom.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E19 - Prophecy of Doom.xvid
+MOVE  20. Feat of Clay Part 1.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E20 - Feat of Clay Part 1.xvid
+MOVE  21. Feat of Clay Part 2.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E21 - Feat of Clay Part 2.xvid
+MOVE  22. Joker's Favor.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E22 - Joker's Favor.xvid
+MOVE  23. Vendetta.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E23 - Vendetta.xvid
+MOVE  24. Fear of Victory.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E24 - Fear of Victory.xvid
+MOVE  25. The Clock King.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E25 - The Clock King.xvid
+MOVE  26. Appointment in Crime Alley.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E26 - Appointment in Crime Alley.xvid
+MOVE  27. Mad As a Hatter.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E27 - Mad as a Hatter.xvid
+MOVE  28. Dreams in Darkness.xvid
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E28 - Dreams in Darkness.xvid
+MOVE  29. Eternal Youth.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E29 - Eternal Youth.avi
+MOVE  30. Perchance To Dream.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E30 - Perchance to Dream.avi
+MOVE  31. The Cape And Cowl Conspiracy.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E31 - The Cape and Cowl Conspiracy.avi
+MOVE  32. Robin's Reckoning Part One.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E32 - Robin's Reckoning Part One.avi
+MOVE  33. Robin's Reckoning Part Two.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E33 - Robin's Reckoning Part Two.avi
+MOVE  34. The Laughing Fish.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E34 - The Laughing Fish.avi
+MOVE  35. Night Of The Ninja.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E35 - Night of the Ninja.avi
+MOVE  36. Cat Scratch Fever.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E36 - Cat Scratch Fever.avi
+MOVE  37. The Strange Secret Of Bruce Wayne.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E37 - The Strange Secret of Bruce Wayne.avi
+MOVE  38. Heart Of Steel Part One.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E38 - Heart of Steel Part One.avi
+MOVE  39. Heart Of Steel Part Two.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E39 - Heart of Steel Part Two.avi
+MOVE  40. If You're So Smart, Why Aren't You Rich.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E40 - If You're So Smart, Why Aren't You Rich?.avi
+MOVE  41. Joker's Wild.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E41 - Joker's Wild.avi
+MOVE  42. Tyger, Tyger.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E42 - Tyger, Tyger.avi
+MOVE  43. Moon Of The Wolf.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E43 - Moon of the Wolf.avi
+MOVE  44. Day Of The Samurai.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E44 - Day of the Samurai.avi
+MOVE  45. Terror In The Sky.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E45 - Terror in the Sky.avi
+MOVE  46. Almost Got 'im.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E46 - Almost Got 'Im.avi
+MOVE  47. Birds Of A Feather.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E47 - Birds of a Feather.avi
+MOVE  48. What Is Reality.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E48 - What Is Reality?.avi
+MOVE  49. I Am The Night.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E49 - I Am the Night.avi
+MOVE  50. Off Balance.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E50 - Off Balance.avi
+MOVE  51. The Man Who Killed Batman.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E51 - The Man Who Killed Batman.avi
+MOVE  52. Mudslide.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E52 - Mudslide.avi
+MOVE  53. Paging The Crime Doctor.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E53 - Paging the Crime Doctor.avi
+MOVE  54. Zatanna.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E54 - Zatanna.avi
+MOVE  55. The Mechanic.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E55 - The Mechanic.avi
+MOVE  56. Harley & Ivy.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E56 - Harley and Ivy.avi
+MOVE  57. Shadow Of The Bat Part 1.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E57 - Shadow of the Bat Part 1.avi
+MOVE  58. Shadow Of The Bat Part 2.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E58 - Shadow of the Bat Part 2.avi
+MOVE  59. Blind as a Bat.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E59 - Blind as a Bat.avi
+MOVE  60. The Demon's Quest Part 1.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E60 - The Demon's Quest Part 1.avi
+MOVE  61. The Demon's Quest Part 2.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E61 - The Demon's Quest Part 2.avi
+MOVE  62. His Silicon Soul.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E62 - His Silicon Soul.avi
+MOVE  63. Fire From Olympus.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E63 - Fire From Olympus.avi
+MOVE  64. Read My Lips.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E64 - Read My Lips.avi
+MOVE  65. The Worry Men.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E65 - The Worry Men.avi
+MOVE  66. Sideshow.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E66 - Sideshow.avi
+MOVE  67. A Bullet for Bullock.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E67 - A Bullet for Bullock.avi
+MOVE  68. Trial.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E68 - Trial.avi
+MOVE  69. Avatar.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E69 - Avatar.avi
+MOVE  70. House & Garden.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E70 - House and Garden.avi
+MOVE  71. The Terrible Trio.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E71 - The Terrible Trio.avi
+MOVE  72. Harlequinade.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E72 - Harlequinade.avi
+MOVE  73. Time out of Joint.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E73 - Time Out of Joint.avi
+MOVE  74. Catwalk.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E74 - Catwalk.avi
+MOVE  75. Bane.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E75 - Bane.avi
+MOVE  76. Baby-Doll.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E76 - Baby-Doll.avi
+MOVE  77. The Lion and The Unicorn.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E77 - The Lion and the Unicorn.avi
+MOVE  78. Showdown.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E78 - Showdown.avi
+MOVE  79. Riddlers Reform.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E79 - Riddler's Reform.avi
+MOVE  80. Second Chance.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E80 - Second Chance.avi
+MOVE  81. Harley's Holiday.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E81 - Harley's Holiday.avi
+MOVE  82. Lock-Up.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E82 - Lock-Up.avi
+MOVE  83. Make em Laugh.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E83 - Make 'Em Laugh.avi
+MOVE  84. Deep Freeze.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E84 - Deep Freeze.avi
+MOVE  85. Batgirl Returns.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E85 - Batgirl Returns.avi
+MOVE  Batman - The Animated Series - S04E01 - The Terrible Trio.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E71 - The Terrible Trio.mkv
+MOVE  Batman - The Animated Series - S04E02 - Showdown.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E78 - Showdown.mkv
+MOVE  Batman - The Animated Series - S04E03 - Catwalk.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E74 - Catwalk.mkv
+MOVE  Batman - The Animated Series - S04E04 - A Bullet for Bullock.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E67 - A Bullet for Bullock.mkv
+MOVE  Batman - The Animated Series - S04E05 - The Lion and the Unicorn.mkv
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 01/Batman - The Animated Series (1992) - S01E77 - The Lion and the Unicorn.mkv
+MOVE  86. Holiday Knights.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E01 - Holiday Knights.avi
+MOVE  87. Sins Of The Father.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E02 - Sins of the Father.avi
+MOVE  88. Cold Comfort.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E03 - Cold Comfort.avi
+MOVE  89. Double Talk.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E04 - Double Talk.avi
+MOVE  90. You Scratch My Back.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E05 - You Scratch My Back.avi
+MOVE  91. Never Fear.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E06 - Never Fear.avi
+MOVE  92. Jokers's Millions.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E07 - Joker's Millions.avi
+MOVE  93. Growing Pains.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E08 - Growing Pains.avi
+MOVE  94. Love Is A Croc.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E09 - Love Is a Croc.avi
+MOVE  95. Torch Song.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E10 - Torch Song.avi
+MOVE  96. The Ultimate Thrill.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E11 - The Ultimate Thrill.avi
+MOVE  97. Over The Edge.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E12 - Over the Edge.avi
+MOVE  98. Mean Seasons.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E13 - Mean Seasons.avi
+MOVE  99. Critters.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E14 - Critters.avi
+MOVE  100. Cult Of The Cat.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E15 - Cult of the Cat.avi
+MOVE  101. Animal Act.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E16 - Animal Act.avi
+MOVE  102. Old Wounds.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E17 - Old Wounds.avi
+MOVE  103. The Demon Within.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E18 - The Demon Within.avi
+MOVE  104. Legends Of The Dark Knight.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E19 - Legends of the Dark Knight.avi
+MOVE  105. Girl's Night Out.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E20 - Girl's Night Out.avi
+MOVE  106. Mad Love.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E21 - Mad Love.avi
+MOVE  107. Chemistry.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E22 - Chemistry.avi
+MOVE  108. Beware The Creeper.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E23 - Beware the Creeper.avi
+MOVE  109. Judgement Day.avi
+   -> /media/madmaxlgndklr/media22/shows/Batman - The Animated Series (1992)/Season 02/Batman - The Animated Series (1992) - S02E24 - Judgment Day.avi
+
+Summary: moved=114  skipped=0  errors=0
